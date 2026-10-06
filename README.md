@@ -1,4 +1,5 @@
-# 💫 About Me:
+
+About Me:
 🔭 I’m currently working on: Completing my Bachelor's degree in Computer Science and Engineering (3rd year!), applying tools like Multisim, Proteus, and Logisim.<br><br>👯 I’m looking to collaborate on: Research opportunities, academic papers, and technical projects.<br><br>🤝 I’m looking for help with: Finding better research opportunities and bridging foundational tasks with high-level problem solving.<br><br>🌱 I’m currently learning: Machine learning, deep learning, and the theory of computation.<br><br>💬 Ask me about: Gaming gossip, casual gaming banter, hanging out to play together, or everyday basic tasks while I level up on higher-level tech.<br><br>⚡ Fun fact: I love the grind of getting Platinum trophies in games!
 
 
