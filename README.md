@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hi there, I'm Shabab! 👋
-**Computer Science & Engineering Student | Aspiring Researcher**
+**Computer Science & Engineering Student**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2B90D9&center=true&vCenter=true&width=500&lines=CSE+Undergrad+(3rd+Year);Machine+Learning+Enthusiast;Gamer+%26+Platinum+Trophy+Hunter)](https://git.io/typing-svg)
 
