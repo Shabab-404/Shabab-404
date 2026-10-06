@@ -1,16 +1,53 @@
-🔭 I’m currently working on: Completing my Bachelor's degree in Computer Science and Engineering (3rd year!), applying tools like Multisim, Proteus, and Logisim.<br><br>👯 I’m looking to collaborate on: Research opportunities, academic papers, and technical projects.<br><br>🤝 I’m looking for help with: Finding better research opportunities and bridging foundational tasks with high-level problem solving.<br><br>🌱 I’m currently learning: Machine learning, deep learning, and the theory of computation.<br><br>💬 Ask me about: Gaming gossip, casual gaming banter, hanging out to play together, or everyday basic tasks while I level up on higher-level tech.<br><br>⚡ Fun fact: I love the grind of getting Platinum trophies in games!
+<div align="center">
+  
+# Hi there, I'm Shabab! 👋
+**Computer Science & Engineering Student | Aspiring Researcher**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_shabab_______/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sobhanishabab@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2B90D9&center=true&vCenter=true&width=500&lines=CSE+Undergrad+(3rd+Year);Machine+Learning+Enthusiast;Gamer+%26+Platinum+Trophy+Hunter)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Shabab-404&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Shabab-404&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shabab-404&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_shabab_______/) 
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@ShababSobhani) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sobhanishabab@gmail.com) 
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Shabab-404&icon=4&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me
+
+- 🎓 **Academics:** Currently in my 3rd year pursuing a Bachelor's degree in Computer Science and Engineering.
+- 🔬 **Focus Areas:** Deeply interested in **Machine Learning**, **Deep Learning**, and the **Theory of Computation**.
+- 🛠️ **Current Projects:** Applying simulation tools like *Multisim, Proteus, and Logisim* to bridge foundational tasks with high-level problem solving.
+- 🤝 **Looking to Collaborate:** I am actively seeking better research opportunities, academic paper collaborations, and challenging technical projects.
+- 🎮 **Beyond Coding:** Ask me for casual gaming banter or gaming gossip! Always down to hang out, play together, or grind for those Platinum trophies.
+
+---
+
+### 💻 Tech Stack & Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Shabab-404&theme=dark&hide_border=true&include_all_commits=false&count_private=true" height="150" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Shabab-404&theme=dark&hide_border=true" height="150" alt="GitHub Streak"/>
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Shabab-404&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="150" alt="Top Languages"/>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Shabab-404">
+    <img src="https://komarev.com/ghpvc/?username=Shabab-404&icon=4&color=2B90D9&style=flat-square" alt="Profile Views" />
+  </a>
+</div>
