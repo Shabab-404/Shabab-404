@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2B90D9&center=true&vCenter=true&width=500&lines=CSE+Undergrad+(3rd+Year);Machine+Learning+Enthusiast;Gamer+%26+Platinum+Trophy+Hunter)](https://git.io/typing-svg)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sobhanishabab@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sobhanishabab@gmail.com) 
 
 </div>
 
