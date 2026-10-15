@@ -11,13 +11,7 @@
 - Working on programming projects and digital logic simulations
 - Interested in gaming
 
-### Technical Skills
-
-*Languages:* C · C++ · Java · Python
-
-*Tools:* Git · GitHub · VS Code · Multisim · Logisim
-
-*Interests:* Machine Learning · Algorithms · Computer Architecture · Research
+---
 
 ### Current Focus
 
