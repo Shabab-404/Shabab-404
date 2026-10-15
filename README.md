@@ -1,31 +1,33 @@
-<div align="center">
-  
-# Hi there, I'm Shabab! 👋
-**Computer Science & Engineering Student**
+# Hi, I'm Shabab 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2B90D9&center=true&vCenter=true&width=500&lines=CSE+Undergrad+(3rd+Year);Machine+Learning+Enthusiast;Gamer+%26+Platinum+Trophy+Hunter)](https://git.io/typing-svg)
+### Computer Science & Engineering Student
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sobhanishabab@gmail.com) 
-
-</div>
+I'm a CSE student interested in software development, machine learning, and the theory behind computing. I'm focused on strengthening my programming fundamentals and building practical projects while exploring research opportunities.
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 **Academics:** Currently in my 3rd year pursuing a Bachelor's degree in Computer Science and Engineering.
-- 🌱 **Currently Learning:** Diving into **Python**, alongside Machine Learning, Deep Learning, and the Theory of Computation.
-- 🛠️ **Current Projects:** Applying simulation tools like *Multisim, Proteus, and Logisim* to bridge foundational tasks with high-level problem solving.
-- 🤝 **Looking to Collaborate:** I am actively seeking better research opportunities, academic paper collaborations, and challenging technical projects.
-- 🎮 **Beyond Coding:** Ask me for casual gaming banter or gaming gossip! Always down to hang out, play together, or grind for those Platinum trophies.
+- 🎓 Pursuing a Bachelor's degree in Computer Science & Engineering
+- 💻 Learning C, C++, Java, and Python
+- 🧠 Exploring Machine Learning, Deep Learning, and Theory of Computation
+- 🛠️ Working on programming projects and digital logic simulations
+- 🔬 Interested in research, academic collaboration, and challenging technical problems
+
+### Technical Skills
+
+*Languages:* C · C++ · Java · Python
+
+*Tools:* Git · GitHub · VS Code · Multisim · Logisim
+
+*Interests:* Machine Learning · Algorithms · Computer Architecture · Research
+
+### Current Focus
+
+- Improving problem-solving and algorithmic thinking
+- Building practical software projects
+- Strengthening my foundations in computer science
 
 ---
 
-### 💻 Tech Stack & Tools
-
-<div align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-</div>
+Always learning. Always building.
